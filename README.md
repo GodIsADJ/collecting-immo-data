@@ -9,7 +9,7 @@ _PoweredBy_:
 
 [![N|Solid](https://res.cloudinary.com/practicaldev/image/fetch/s--xYNk7vjX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://thepracticaldev.s3.amazonaws.com/i/dpf1jzsiy8n1tmdfxn1v.jpg)](https://nodesource.com/products/nsolid)
 
-ImmoScrap is  script using scrapy and  BeautifulSoup to scrap data from the Immoweb.be site.
+ImmoScrap is  script using Scrapy and  BeautifulSoup to scrap data from the Immoweb.be site.
 
 **Currently implemented**
 
